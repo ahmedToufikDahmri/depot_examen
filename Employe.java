@@ -8,7 +8,7 @@ public class Employe {
    private String salaire;
    private String dateNaissance;
    private String sexe;
-
+   private int nombreEnfants;
 
 
 }
